@@ -1,0 +1,31 @@
+Core Stats
+
+#Strenght
+#Dexterity
+#Constitution
+#Inteligence
+#Wisdom
+#Charisma
+
+Derivitive Stats
+#Defense= CON/2(ru)+armor
+#Health=  1+(CON*Level)
+#Penetration= 1d20+([stat]/2)
+
+
+Generation:
+roll 2d6k1+1 five times, assign stats based on character archetype
+
+Usage: 
+Stat is added to roll involving action related to that stat, for example: with DEX at 4, freehand climbing a wall will have 1d20+4 chance of sucsess. 
+
+Penetration VS Defense:
+
+When attacking a character must make a Penetration roll, this is compared to the opposing characters defense value. if Defense is greater than Penetration the 
+attack may make contact but does no damage. This works better than an evasion stat in practice as the Tank in Steel Plate armor is not going to dodge out of the 
+way of a club, its just going to bounce off. 
+
+Skills:
+Upon creation or when gaining a tier a character may be granted a skill. These can be either passive boons or active abilties. For passive skills they add a 
+fixed bonus of +5 to rolls involving that skill. for example Husbandry would give a +5 bonus when working with a horse. Active abilities are more flexable and 
+are at the total discresion of the DM. One example of this is the ability "FaceStab" a turn about on the rougues Backstab ability. When 
