@@ -1,3 +1,7 @@
+#Mechanics and Stats
+
+#######################################################3
+
 Core Stats
 
 #Strenght
@@ -19,13 +23,51 @@ roll 2d6k1+1 five times, assign stats based on character archetype
 Usage: 
 Stat is added to roll involving action related to that stat, for example: with DEX at 4, freehand climbing a wall will have 1d20+4 chance of sucsess. 
 
+
+###############################################################
+
+
+Skills:
+
+During Character Creation players will select up to 4 tradeskills that match their archetype. Each skill adds +5 to a roll that is related to that skill, this is 
+stacked with the corrispondin core stat, allowing for a good size boost to player rolls. 
+
+An example list of Skills are included in Appendix A
+
+
+Leveling:
+Shattered World takes a different approcah to levling and skills compared to many other fantasy role-playing systems. Characters advance from Level 0 through to 
+Level 5. Upon each level up characters gain 2 attribute points that they can assign to their core stats as the player sees fit. Once a character meets max level 
+they may advance in Tiers, these tiers are awarded as a boon from heroic acts or reaching campaing milestones. There are two types of Tiers that a character 
+can be granted; Additional Tradeskills or Advanced Mechanics. 
+
+Advanced Mechanics:
+There are times that you want to really add flavor to a player character outside of equipment or skills, This is where Advanced Mechanics come into play. Each 
+Player character may be granted one Advanced Mechanic upon reaching level 5, and additional ones through leveling tiers. A word of caution, care should be taken 
+when implementing Advanced Mechaincs, as it can quickly unbalance the game. Two Advanced Mechaics are detailed below, additional Advanced Mechanic examples can 
+be found in Appendix A. 
+
+# Backstab - Theif
+# During Combat: 
+# While undetected by combat target, ignore enemy defense bonuses. 
+# on sucessful hit roll double weapon damage
+# if one roll is a critical sucsess, double both rolls. 
+
+# Facestab - Rogue
+# During Combat:
+# If Penetration roll excedes Defense by double the amount, roll double weapon damage
+# Add Rolls together, if Critical Sucess, double damage amount. 
+
+
+
+###############################################################################
+
+
 Penetration VS Defense:
 
 When attacking a character must make a Penetration roll, this is compared to the opposing characters defense value. if Defense is greater than Penetration the 
 attack may make contact but does no damage. This works better than an evasion stat in practice as the Tank in Steel Plate armor is not going to dodge out of the 
 way of a club, its just going to bounce off. 
 
-Skills:
-Upon creation or when gaining a tier a character may be granted a skill. These can be either passive boons or active abilties. For passive skills they add a 
-fixed bonus of +5 to rolls involving that skill. for example Husbandry would give a +5 bonus when working with a horse. Active abilities are more flexable and 
-are at the total discresion of the DM. One example of this is the ability "FaceStab" a turn about on the rougues Backstab ability. When 
+
+
