@@ -5,20 +5,19 @@
 Core Stats
 
 #Strenght
-#Dexterity
-#Constitution
-#Inteligence
-#Wisdom
+#Agility
+#Fortitude
+#Knowledge
 #Charisma
 
 Derivitive Stats
-#Defense= CON/2(ru)+armor
-#Health=  1+(CON*Level)
-#Penetration= 1d20+([stat]/2)
+#Defense= FORT/2+armor
+#Health=  1+(FORT*Level)
+#Penetration= 1d20+([STR]/2)
 
 
 Generation:
-roll 2d6k1+1 five times, assign stats based on character archetype
+roll 2d6 five times, assign stats based on character archetype
 
 Usage: 
 Stat is added to roll involving action related to that stat, for example: with DEX at 4, freehand climbing a wall will have 1d20+4 chance of sucsess. 
@@ -70,4 +69,23 @@ attack may make contact but does no damage. This works better than an evasion st
 way of a club, its just going to bounce off. 
 
 
+
+################################################################
+
+Archetypes:
+
+
+
+
+
+
+#################################################################
+
+#Character Creation
+
+Process:
+Select Archetype
+Roll Stats
+Select Skills
+Create Appearance
 
