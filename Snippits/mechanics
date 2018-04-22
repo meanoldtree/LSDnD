@@ -5,22 +5,32 @@
 Core Stats
 
 #Strenght
+Physical Brawn. This stat is used whenever a character is attempting to do something requiring brute force. This stat is also used when fighting with a slow 
+weapon such as a sword, hammer, or axe. 
 #Agility
+How Nimble a character is. This stat is also used when fighting with a fast weapon such as a rapier, dagger, or staff. 
 #Fortitude
-#Knowledge
+How physically fit the character is. Derives health points. 
+#Inteligence
+How learned a character is. A high int is useful for alchemical creation and use, as well as world knowledge.  
 #Charisma
+How persuasive a character is. Characters with low charisma may be considered to be bumbling or shy, while high charisma characters make good facemen or 
+polititions. 
 
 Derivitive Stats
+#Health=  1+FORT+Level
+Character hit points
 #Defense= FORT/2+armor
-#Health=  1+(FORT*Level)
+Static Defense value for combat. note that FORT/2 is always rounded down. 
 #Penetration= 1d20+([STR]/2)
+Variable Penertation value for combat, note that STR/2 is always Rounded Down.
 
 
 Generation:
 roll 2d6 five times, assign stats based on character archetype
 
 Usage: 
-Stat is added to roll involving action related to that stat, for example: with DEX at 4, freehand climbing a wall will have 1d20+4 chance of sucsess. 
+Stat is added to roll involving action related to that stat, for example: with AGI at 8, freehand climbing a wall will have 1d20+8 chance of sucsess. 
 
 
 ###############################################################
