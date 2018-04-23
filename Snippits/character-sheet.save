@@ -1,0 +1,50 @@
+#Overview
+
+Character sheets are created in Google Sheets. 
+
+A folder is created with all of the appropriate files. this is the Game Binder Shattered World has one that also includes PDFs of the campaign setting
+
+IN LSDnD there are 6 Character Slots. There is a pre-formed character sheet for each slot. IF a character needs to be imported, their sheet can be renamed and 
+dropped into the appropriate slot
+
+#
+
+The DM Journal not only references all of the character sheets, but it allows for notes and has derived stats not avalible on the character's sheet
+
+The Main sheet of the DM Journal has a view of all 6 characters; name, ability scores, static bonuses to defense and penetration, current weapons equiped, 
+funds, ect.
+
+The next sheet is a general notes sheet, designed to be used while the game is running to record events. 
+
+the next several sheets are resourses for Shattered World, including NPC and location generation, weapon and item lists, alchemical primers and guide.
+
+The last several sheets are cloned in from the character sheets, allowing the DM to browse characters without leaving the journal 
+
+
+#
+
+Character sheets can be shared out individually via link sharing to prevent players from spying on eachother should intrigue arise. additionally it helps in that 
+other players cannot edit a sheet they do not own. 
+
+additionally, with shared update tracking a GM can see what changes were made and when to a character sheet, this allows for easy discovery of cheating. 
+
+
+
+
+
+
+
+##Folder Structure
+
+GameBinder
+    > World>
+	>Shattered-World.pdf
+    >Characters>
+	>DM-Journal
+	>Slot01>Character-Sheet
+	>Slot02>Character-Sheet
+	>Slot03>Character-Sheet
+	>Slot04>Character-Sheet
+	>Slot05>Character-Sheet
+	>Slot06>Character-Sheet
+
